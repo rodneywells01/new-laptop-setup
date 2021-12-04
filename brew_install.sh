@@ -10,7 +10,7 @@ brew install --cask jetbrains-toolbox
 brew install --cask spotify
 brew install --cask messenger
 brew install --cask postman
-brew install docker
+brew install --cask docker
 brew install --cask chrome
 brew install --cask discord
 brew install --cask tradingview
