@@ -24,10 +24,15 @@ brew install --cask microsoft-teams
 brew install --cask slack
 brew install --cask visual-studio-code
 brew install --cask expressvpn
+brew install --cask ghostty
 brew install --cask google-cloud-sdk
 brew install --cask obsidian
 brew install --cask spotify
+brew install --cask windsurf
 brew install --cask zoom
+
+# Google Cask Installs
+brew install --cask antigravity
 
 # Standard Installs
 brew install tor
@@ -37,3 +42,6 @@ brew install wget
 
 # Install Node
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+
+# Install Claude Code
+npm install -g @anthropic-ai/claude-code
